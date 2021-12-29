@@ -255,7 +255,7 @@
                 {
                  "height":205,
                  "id":2,
-                 "name":"",
+                 "name":"geranien",
                  "properties":[
                         {
                          "name":"url",
@@ -263,7 +263,7 @@
                          "value":"https:\/\/stream.studio-link.de\/geranienundpflastersteine"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":360,
                  "x":271,

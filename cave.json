@@ -239,41 +239,11 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/stream.studio-link.de\/geranienundpflastersteine"
+                 "value":"https:\/\/solidarisch-tanzen.org\/sendingsolidarity-from-nowhere\/"
                 }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":25,
-         "name":"stream",
-         "objects":[
-                {
-                 "height":205,
-                 "id":2,
-                 "name":"geranien",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/stream.studio-link.de\/geranienundpflastersteine"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":360,
-                 "x":271,
-                 "y":1104
-                }],
-         "offsetx":644,
-         "offsety":-146,
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
          "x":0,
          "y":0
         }, 
